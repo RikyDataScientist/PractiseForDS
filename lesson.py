@@ -4,7 +4,7 @@ for practice in data science using Python.
 """
 
 print("Shiawase")  # Get Started
-
+I love you
  # Comment
 """
 Just for comment
