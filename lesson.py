@@ -5,14 +5,7 @@ for practice in data science using Python.
 
 print("Shiawase")  # Get Started
 
-if 5 > 3:  # Identation
-    print("Nice")
-x = 5  # Variable
-y = 8
-if x > y:
-    print("You're wrong")
-if x < y:
-    print("You're right")  # Comment
+ # Comment
 """
 Just for comment
 """
