@@ -204,3 +204,6 @@ print(", ".join(Things))  # Join
 text = "i love for thousand, years"
 print(text.title())  # Title (Each first letter of words are capital)
 print(text.capitalize())  # Capitalize (First letter of word is capital)
+
+# This is a captain speaking right now.
+
