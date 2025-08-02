@@ -136,11 +136,6 @@ text = "I love for thousand, years"  # Check If Not Strings with If
 if "Focus" not in text:
     print("Yes, i need fucking focus.")
 
-text = "I love for thousand, years"  # Slicing
-print(text[7:19])
-print(text[7:])  # Slicing in the End
-print(text[-19:-1])  # Negative Indexing
-
 text = "I love for thousand, years"  # Upper Case
 print(text.upper())
 print(text.lower())  # Lower Case
@@ -207,5 +202,6 @@ print(text.title())  # Title (Each first letter of words are capital)
 print(text.capitalize())  # Capitalize (First letter of word is capital)
 
 # This is a captain speaking right now.
+
 
 
